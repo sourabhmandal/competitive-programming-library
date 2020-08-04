@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sourabh/Documents/C++/competitive programming library/algo/algorithms.h
+
+/home/sourabh/Documents/C++/competitive programming library/main.cpp
+iostream
+-
+algo/algorithms.h
+/home/sourabh/Documents/C++/competitive programming library/algo/algorithms.h
+
