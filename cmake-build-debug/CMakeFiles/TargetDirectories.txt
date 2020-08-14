@@ -1,3 +1,0 @@
-/home/sourabh/Documents/C++/competitive programming library/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/sourabh/Documents/C++/competitive programming library/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/sourabh/Documents/C++/competitive programming library/cmake-build-debug/CMakeFiles/competitive_programming_library.dir
